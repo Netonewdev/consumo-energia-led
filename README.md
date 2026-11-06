@@ -6,7 +6,6 @@ Sistema em **Python + SQL (SQLite)** que registra a iluminação dos ambientes d
 - quanto seria economizado trocando as lâmpadas fluorescentes e incandescentes por **LED**;
 - em quantos meses o investimento na troca se paga.
 
-A ideia nasceu de um tema real: reduzir o gasto com energia elétrica em ambientes escolares.
 
 ## Tecnologias
 
@@ -18,7 +17,7 @@ A ideia nasceu de um tema real: reduzir o gasto com energia elétrica em ambient
 ## Como rodar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/consumo-energia-led.git
+git clone https://github.com/Netonewdev/consumo-energia-led.git
 cd consumo-energia-led
 python main.py
 ```
@@ -110,4 +109,4 @@ Gasto atual com iluminação: **R$ 541,41/mês**. Com LED, a economia é de cerc
 ## Autor
 
 Francisco — estudante de TI em Manaus/AM
-[LinkedIn](COLE-AQUI-O-LINK) · [GitHub](https://github.com/SEU-USUARIO)
+[GitHub](https://github.com/Netonewdev)
