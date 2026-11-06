@@ -1,0 +1,4 @@
+energia.db
+__pycache__/
+*.pyc
+.venv/
